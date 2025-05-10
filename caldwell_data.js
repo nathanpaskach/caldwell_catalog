@@ -191,8 +191,9 @@ var data = {
 		},
 		{
 			"title":"32",
-			"content":"",
+			"content":"Caldwell 32\n5-10-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/C32_5-10-2025.jpg"
 			]
 		},
 		{
@@ -287,8 +288,9 @@ var data = {
 		},
 		{
 			"title":"48",
-			"content":"",
+			"content":"Caldwell 48\n3-8-2025\n\nMount: Sky-Watcher EQ6-R Pro\nCamera: ASI533MC Pro\nOTA: Apertura RC 6\" f/9 with 0.67x reducer\nGuide Camera: SVBONY SV305 Pro\nGuide Scope: SVBONY SV165",
 			"images":[
+				"images/C48_3-8-2025.jpg"
 			]
 		},
 		{
